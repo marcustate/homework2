@@ -1,0 +1,63 @@
+.baseball {
+    top: 20px;
+    left: 100px;
+    width: 225px;
+    height: 225px;
+    
+}
+
+.food {
+    
+    width: 225px;
+    height: 225px;
+}
+
+.music {
+    
+    width: 225px;
+    height: 225px;
+}
+
+.animal {
+    
+    width: 225px;
+    height: 225px;
+}
+
+.tv {
+    
+    width: 225px;
+    height: 225px;
+}
+
+.games {
+    
+    width: 225px;
+    height: 225px;
+}
+
+.section-1 {
+    width: 100%;
+    height: 250px;
+    background-color: white;
+    
+}
+
+.section-2 {
+    width: 100%;
+    height: 550px;
+    background-color: white;
+
+}
+
+.move-me {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
